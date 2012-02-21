@@ -1,10 +1,9 @@
 Package: rssreader
 Version: 1.0.0
 Architecture: all
-Maintainer: kevinyi <xy6g11@ecs.soton.ac.uk>
-Installed-Size: 36
-Section: unknown
-Priority: extra
-Homepage: <insert the upstream URL, if relevant>
-Description: <insert up to 60 chars description>
- <insert long description, indented with spaces>
+Maintainer: Xiaojian Yi <xy6g11@ecs.soton.ac.uk>
+Installed-Size: 80
+Depends: php5
+Section: php
+Priority: optional
+Description: This is a RSS Reader used to retrieve feeds form bbc.co.uk - coursework 1 of info6005 2012

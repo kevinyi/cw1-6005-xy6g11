@@ -1,20 +1,19 @@
 This work was packaged for Debian by:
 
-    kevinyi <xy6g11@ecs.soton.ac.uk> on Tue, 21 Feb 2012 13:44:47 +0800
+    XIaojian Yi <xy6g11"ecs.soton.ac.uk> on Sat, 22 Feb 2012 16:37:54 +0000
 
 It was downloaded from:
 
-    <url://example.com>
+    http://github.com/info6005/6005_cw1_2012
 
 Upstream Author(s):
 
-    <put author's name and email here>
-    <likewise for another author>
+    David Tarrent
 
 Copyright:
 
-    <Copyright (C) YYYY Firstname Lastname>
-    <likewise for another author>
+    David Tarrant
+
 
 License:
 
@@ -36,15 +35,10 @@ Public License version 3 can be found in "/usr/share/common-licenses/GPL-3".
 
 The Debian packaging is:
 
-    Copyright (C) 2012 kevinyi <xy6g11@ecs.soton.ac.uk>
+    Copyright (C) 2012 Xiaojian Yi <xy6g11"ecs.soton.ac.uk>
 
-# Please chose a license for your packaging work. If the program you package
-# uses a mainstream license, using the same license is the safest choice.
-# Please avoid to pick license terms that are more restrictive than the
-# packaged work, as it may make Debian's contributions unacceptable upstream.
-# If you just want it to be GPL version 3, leave the following line in.
+
 
 and is licensed under the GPL version 3, see above.
 
-# Please also look if there are files or directories which have a
-# different copyright/license attached and list them here.
+#

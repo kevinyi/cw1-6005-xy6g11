@@ -1,15 +1,12 @@
-Source: rssreader
-Section: unknown
-Priority: extra
-Maintainer: kevinyi <xy6g11@ecs.soton.ac.uk>
-Build-Depends: debhelper (>= 7.0.50~)
-Standards-Version: 3.8.4
-Homepage: <insert the upstream URL, if relevant>
-#Vcs-Git: git://git.debian.org/collab-maint/rssreader.git
-#Vcs-Browser: http://git.debian.org/?p=collab-maint/rssreader.git;a=summary
-
 Package: rssreader
+Section: php
+Priority: optional
+Maintainer: Xiaojian Yi <xy6g11@ecs.soton.ac.uk>
+Version: 1.0.0
+Vcs-Git: git://git.debian.org/collab-maint/cw-6005-xy6g11.git
+Vcs-Browser: http://git.debian.org/?p=collab-maint/cw-6005-xy6g11.git;a=summary
+Source: rssreader
+Priority: optional
 Architecture: all
-Depends: ${misc:Depends}
-Description: <insert up to 60 chars description>
- <insert long description, indented with spaces>
+Depends: php5-cil
+Description: RSS reader used to retrieve feeds from bbc.co.uk - coursework 1 for info6005 2012

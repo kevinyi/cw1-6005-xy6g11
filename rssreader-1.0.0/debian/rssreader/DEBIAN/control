@@ -1,0 +1,10 @@
+Package: rssreader
+Version: 1.0.0
+Architecture: all
+Maintainer: kevinyi <xy6g11@ecs.soton.ac.uk>
+Installed-Size: 36
+Section: unknown
+Priority: extra
+Homepage: <insert the upstream URL, if relevant>
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>

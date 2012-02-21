@@ -1,5 +1,14 @@
-rssreader(1.0.0) unstable; urgency=low
+rssreader (1.0.0) stable; urgency=low
 
-  * Initial Release.
+  * First commit.
+  * Adding basic structure files.
+  * Adding file dirs.
+  * Adding file rssreader.install.
+  * Adding files rssreader.manpages and rssreader.1 to create the manpage.
+  * Modifying the file index.php.
+  * Adding shell script file.
+  * Modifing the control file.
+  * Modifying the copyright file.
+  * Modifying control and changelog due to building error.
 
- -- kevinyi <xy6g11"ecs.soton.ac.uk>  Sat, 18 Feb 2012 05:37:54 +0800
+ -- Xiaojian Yi <xy6g11@ecs.soton.ac.uk>  Tue, 21 Feb 2012 17:52:32 +0800

@@ -9,6 +9,12 @@ rssreader (1.1.0) stable; urgency=low
   * Adding shell script file.
   * Modifing the control file.
   * Modifying the copyright file.
-  * Modifying control and changelog due to building error.
+  * Modifying the manpages file.
+  * Deleting unnecessary file.
+  * Modifying dirs file.
+  * Modifying rssreader.install file.
+  * Modifying files rssreader.install.
+  * Modifying file index.php.
+  * Modifying the shell script file.
 
  -- Xiaojian Yi <xy6g11@ecs.soton.ac.uk>  Tue, 21 Feb 2012 17:52:32 +0800

@@ -1,0 +1,11 @@
+Source: rssreader
+Section: php
+Priority: optional
+Standards-Version: 3.8.4
+Maintainer: Xiaojian Yi <xy6g11@ecs.soton.ac.uk>
+
+Package: rssreader
+Version: 1.1
+Architecture: all
+Depends: php5
+Description: This is a RSS Reader used to retrieve feeds form bbc.co.uk - coursework 1 of info6005 2012

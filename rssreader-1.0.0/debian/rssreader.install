@@ -1,4 +1,4 @@
-index.php usr/share/cw1-6005-xy6g11
-rss_php.php usr/share/cw1-6005-xy6g11
-feeds.conf usr/share/cw1-6005-xy6g11
+index.php usr/share/rssreader
+rss_php.php usr/share/rssreader
+feeds.conf usr/share/rssreader
 xy6g11 usr/bin

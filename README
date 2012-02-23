@@ -1,5 +1,5 @@
-
-The rssreader is a command line RSS reader, which is the coursework 1 of INFO6005 Rich Application in University of Southampton. And it is implemented by Xiaojian Yi (xy6g11@ecs.soton.ac.uk).
+The rssreader is a command line RSS reader, which is the coursework 1 of INFO6005 Rich Application in University of Southampton.
+And it is implemented by Xiaojian Yi (xy6g11@ecs.soton.ac.uk).
 
 #The upstream software code can be cloned from http://github.com/info6005/6005_cw1_2012.
 
@@ -12,7 +12,8 @@ To run:
 
 Problems you may have:
 1. If permission denied, you may need to run 'sudo dpkg -i rssreader_1.1.0_all.deb'.
-2. If dependencices are detected not matching, php5 should be installed 'sudo apt-get install php5' before installing the the RSS reader.
+2. If dependencices are detected not matching, php5 should be installed 'sudo apt-get install php5' before installing 
+the the RSS reader.
 
   --Any problems, please contact Xiaojian Yi<xy6g11@soton.ac.uk>
 
